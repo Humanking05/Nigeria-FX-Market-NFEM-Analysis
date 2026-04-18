@@ -16,5 +16,3 @@ An end-to-end data analysis project exploring the Nigeria Financial Exchange Mar
 
 ## 📈 Local AI Integration
 Unlike projects using cloud APIs, this project utilizes a local AI stack. By running **Qwen via Ollama**, the analysis remains private, secure, and cost-effective, demonstrating a "Private-AI" approach to financial data science.
-
-[Download the Full Report](./FX_Market_Analysis_Report.pdf)
